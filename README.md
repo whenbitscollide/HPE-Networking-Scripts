@@ -1,4 +1,4 @@
-# HP-Networking-Scripts
+# HPE/Aruba-Networking-Scripts
 I'd like to give a big thanks to Kirk Byers for developing Netmiko - It's been essential in my day-to-day operations.
   - Kirk Byers' site: https://pynet.twb-tech.com
   - Kirk Byers' GitHub: https://github.com/ktbyers
