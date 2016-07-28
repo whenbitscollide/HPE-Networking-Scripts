@@ -287,7 +287,7 @@ hp35 = {
 }
 
 # Group dictionary of devices into a list
-all_devices = [hp1, hp2, hp3, hp4, hp5, hp6, hp7, hp8, hp9, hp10, hp11, hp12, hp13, hp14, hp15, hp16, hp17,hp18, hp19, hp20, hp21, hp22, hp23, hp24, hp25, hp26, hp27, hp28, hp29, hp30, hp31, hp32, hp33, hp34,hp35]
+all_devices = [hp1, hp2, hp3, hp4, hp5, hp6, hp7, hp8, hp9, hp10, hp11, hp12, hp13, hp14, hp15, hp16, hp17, hp18, hp19, hp20, hp21, hp22, hp23, hp24, hp25, hp26, hp27, hp28, hp29, hp30, hp31, hp32, hp33, hp34, hp35]
 
 # Grabs the current date and time and prints it at the start of the output
 start_time = datetime.now()
